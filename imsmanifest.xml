@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="com.sos.jointFunctionsTest.v2" version="2.0"
+  xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+  xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+  xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3"
+  xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 3rd Edition</schemaversion>
+  </metadata>
+  <organizations default="ORG-JFT">
+    <organization identifier="ORG-JFT">
+      <title>From Competition to Crisis: Air-Minded Decision-Making for Joint Staff Officers</title>
+      <item identifier="ITEM-SCO" identifierref="RES-SCO">
+        <title>From Competition to Crisis: Air-Minded Decision-Making for Joint Staff Officers</title>
+        <imsss:sequencing>
+          <imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
+        </imsss:sequencing>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-SCO" type="webcontent" adlcp:scormType="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="css/styles.css"/>
+      <file href="js/scorm.js"/>
+      <file href="js/app.js"/>
+      <file href="js/content-data.js"/>
+      <file href="data/content.json"/>
+      <file href="img/s1-road.jpg"/>
+      <file href="img/s2-road.jpg"/>
+      <file href="img/s3-road.jpg"/>
+      <file href="img/s4-road.jpg"/>
+      <file href="img/s5a-road.jpg"/>
+      <file href="img/s5b-road.jpg"/>
+      <file href="img/m11.jpg"/>
+      <file href="img/m12.jpg"/>
+      <file href="img/m13.jpg"/>
+      <file href="img/m14.jpg"/>
+      <file href="img/m15.jpg"/>
+      <file href="img/m21.jpg"/>
+      <file href="img/m22.jpg"/>
+      <file href="img/m23.jpg"/>
+      <file href="img/m24.jpg"/>
+      <file href="img/m25.jpg"/>
+      <file href="img/m31.jpg"/>
+      <file href="img/m32.jpg"/>
+      <file href="img/m33.jpg"/>
+      <file href="img/m34.jpg"/>
+      <file href="img/m35.jpg"/>
+      <file href="img/m41.jpg"/>
+      <file href="img/m42.jpg"/>
+      <file href="img/m43.jpg"/>
+      <file href="img/m44.jpg"/>
+      <file href="img/m45.jpg"/>
+      <file href="img/m5a1.jpg"/>
+      <file href="img/m5a2.jpg"/>
+      <file href="img/m5a3.jpg"/>
+      <file href="img/m5a4.jpg"/>
+      <file href="img/m5a5.jpg"/>
+      <file href="img/m5b1.jpg"/>
+      <file href="img/m5b2.jpg"/>
+      <file href="img/m5b3.jpg"/>
+      <file href="img/m5b4.jpg"/>
+      <file href="img/m5b5.jpg"/>
+      <file href="imsmanifest.xml"/>
+    </resource>
+  </resources>
+</manifest>
