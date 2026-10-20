@@ -347,59 +347,86 @@
       }).join("") + "</table>";
     }
 
+    var beginLabel = countResolved() > 0 ? "Resume" : "Begin";
+
+    function card(inner) {
+      return "<section class=\"intro-card\">" + inner + "</section>";
+    }
+
     return (
       "<div class=\"screen flow\">" +
         masthead([esc(c.canvasAssignment)]) +
-        "<main class=\"flow-page\" id=\"main\">" +
-          "<p class=\"assignment-name\">" + esc(c.kicker) + "</p>" +
-          "<h1>" + esc(c.title) + "</h1>" +
-          "<p class=\"subtitle\">" + esc(c.subtitle) + "</p>" +
-          "<p class=\"meta-line\"><span>Purpose: " + esc(c.purpose) + "</span></p>" +
-          "<blockquote class=\"opening\">" + paras(it.opening) + "</blockquote>" +
+        "<main class=\"flow-page intro-page\" id=\"main\">" +
+          "<header class=\"intro-hero\">" +
+            "<p class=\"assignment-name\">" + esc(c.kicker) + "</p>" +
+            "<h1>" + esc(c.title) + "</h1>" +
+            "<p class=\"subtitle\">" + esc(c.subtitle) + "</p>" +
+            "<p class=\"intro-purpose\">" + esc(c.purpose) + "</p>" +
+            "<blockquote class=\"opening\">" + paras(it.opening) + "</blockquote>" +
+            "<div class=\"cta-row\">" +
+              "<button type=\"button\" class=\"btn btn-primary btn-begin\">" + esc(beginLabel) + "</button>" +
+            "</div>" +
+          "</header>" +
 
-          "<h2>" + esc(it.why.heading) + "</h2>" +
-          "<p>" + esc(it.why.paragraphs[0]) + "</p>" +
-          "<p>" + esc(it.why.paragraphs[1]) + "</p>" +
-          bullets(it.why.items) +
-          "<p>" + esc(it.why.paragraphs[2]) + "</p>" +
+          card(
+            "<h2>" + esc(it.why.heading) + "</h2>" +
+            "<p>" + esc(it.why.paragraphs[0]) + "</p>" +
+            "<p>" + esc(it.why.paragraphs[1]) + "</p>" +
+            bullets(it.why.items) +
+            "<p>" + esc(it.why.paragraphs[2]) + "</p>"
+          ) +
 
-          "<h2>" + esc(it.responsibility.heading) + "</h2>" +
-          "<p>" + esc(it.responsibility.paragraphs[0]) + "</p>" +
-          "<p class=\"role-setting\">" + esc(it.responsibility.paragraphs[1]) + "</p>" +
-          "<p>" + esc(it.responsibility.paragraphs[2]) + "</p>" +
+          "<div class=\"intro-grid\">" +
+            card(
+              "<h2>" + esc(it.responsibility.heading) + "</h2>" +
+              "<p>" + esc(it.responsibility.paragraphs[0]) + "</p>" +
+              "<p class=\"role-setting\">" + esc(it.responsibility.paragraphs[1]) + "</p>" +
+              "<p>" + esc(it.responsibility.paragraphs[2]) + "</p>"
+            ) +
+            card(
+              "<h2>" + esc(it.identity.heading) + "</h2>" +
+              "<p class=\"role-setting\">" + esc(it.identity.text) + "</p>" +
+              "<p><strong>" + esc(it.identity.responsibility) + "</strong></p>"
+            ) +
+          "</div>" +
 
-          "<h2>" + esc(it.identity.heading) + "</h2>" +
-          "<p class=\"role-setting\">" + esc(it.identity.text) + "</p>" +
-          "<p><strong>" + esc(it.identity.responsibility) + "</strong></p>" +
+          "<div class=\"intro-grid\">" +
+            card(
+              "<h2>" + esc(it.promise.heading) + "</h2>" +
+              "<p>" + esc(it.promise.intro) + "</p>" +
+              bullets(it.promise.items, "ol")
+            ) +
+            card(
+              "<h2>" + esc(it.behaviors.heading) + "</h2>" +
+              "<p>" + esc(it.behaviors.intro) + "</p>" +
+              bullets(it.behaviors.items)
+            ) +
+          "</div>" +
 
-          "<h2>" + esc(it.promise.heading) + "</h2>" +
-          "<p>" + esc(it.promise.intro) + "</p>" +
-          bullets(it.promise.items, "ol") +
+          card(
+            "<h2>" + esc(it.decisionSequence.heading) + "</h2>" +
+            "<p>" + esc(it.decisionSequence.intro) + "</p>" +
+            "<ol class=\"step-grid\">" + it.decisionSequence.steps.map(function (s, i) {
+              return "<li><span class=\"step-index\">" + (i + 1) + "</span><strong>" + esc(s.title.replace(/^Step \d+ — /, "")) + "</strong><span>" + esc(s.text) + "</span></li>";
+            }).join("") + "</ol>" +
+            bullets(it.decisionSequence.submitNotes)
+          ) +
 
-          "<h2>" + esc(it.behaviors.heading) + "</h2>" +
-          "<p>" + esc(it.behaviors.intro) + "</p>" +
-          bullets(it.behaviors.items) +
-
-          "<h2>" + esc(it.decisionSequence.heading) + "</h2>" +
-          "<p>" + esc(it.decisionSequence.intro) + "</p>" +
-          "<ol class=\"steps-list\">" + it.decisionSequence.steps.map(function (s) {
-            return "<li><strong>" + esc(s.title) + "</strong><br>" + esc(s.text) + "</li>";
-          }).join("") + "</ol>" +
-          bullets(it.decisionSequence.submitNotes) +
-
-          "<h2>" + esc(sc.heading) + "</h2>" +
-          "<p>" + esc(sc.intro) + "</p>" +
-          twoCol(sc.table) +
-          "<p>" + esc(sc.total) + "</p>" +
-          twoCol(sc.attemptTable) +
-          twoCol(sc.bands) +
-          "<p>" + esc(sc.principleIntro) + "</p>" +
-          bullets(sc.principle) +
+          card(
+            "<h2>" + esc(sc.heading) + "</h2>" +
+            "<p>" + esc(sc.intro) + "</p>" +
+            "<p class=\"score-total\">" + esc(sc.total) + "</p>" +
+            "<div class=\"score-grid\">" +
+              twoCol(sc.table) +
+              twoCol(sc.attemptTable) +
+              twoCol(sc.bands) +
+            "</div>" +
+            "<p>" + esc(sc.principleIntro) + "</p>" +
+            bullets(sc.principle)
+          ) +
 
           "<div class=\"cta-row\">" +
-            "<button type=\"button\" class=\"btn btn-primary\" id=\"btn-begin\">" +
-              (countResolved() > 0 ? "Resume" : "Begin") +
-            "</button>" +
+            "<button type=\"button\" class=\"btn btn-primary btn-begin\">" + esc(beginLabel) + "</button>" +
           "</div>" +
           stub +
         "</main>" +
@@ -408,7 +435,8 @@
   }
 
   function bindIntro() {
-    document.getElementById("btn-begin").addEventListener("click", function () {
+    Array.prototype.forEach.call(document.querySelectorAll(".btn-begin"), function (btn) {
+      btn.addEventListener("click", function () {
       state.view = "road";
       state.scenarioIndex = 0;
       state.missionIndex = 0;
@@ -429,6 +457,7 @@
       if (!found && allResolved()) state.view = "complete";
       persist();
       render();
+      });
     });
   }
 
@@ -662,12 +691,12 @@
         "<div class=\"workspace\">" +
           "<section class=\"panel panel-left\" aria-label=\"Mission Brief\">" +
             "<p class=\"panel-kicker\">Mission Brief</p>" +
+            visualFigure(VISUALS.missions[m.id], "brief-visual") +
             "<div class=\"block\"><h2>Commander’s Context</h2><p>" + esc(m.commandersContext) + "</p></div>" +
             "<div class=\"block op-problem\"><h2>Joint Operational Problem</h2><p>" + esc(m.jointOperationalProblem) + "</p></div>" +
             "<div class=\"block\"><h2>Staff Tension</h2><p>" + esc(m.staffTension) + "</p></div>" +
             "<div class=\"block\"><h2>Decision Required</h2><p>" + esc(m.decisionRequired) + "</p></div>" +
             capability +
-            visualFigure(VISUALS.missions[m.id], "brief-visual") +
           "</section>" +
           "<section class=\"panel panel-right\" aria-label=\"Student Decision\">" +
             "<p class=\"panel-kicker\">Student Decision</p>" +

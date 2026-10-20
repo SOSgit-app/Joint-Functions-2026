@@ -202,8 +202,12 @@ body {
 }
 
 .brief-visual {
-  margin: auto 0 0;
-  padding-top: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto 1.15rem;
+  text-align: center;
 }
 
 .brief-visual img,
@@ -219,6 +223,7 @@ body {
 
 .brief-visual img {
   max-height: 260px;
+  margin: 0 auto;
   border-radius: 2px;
 }
 
@@ -638,6 +643,101 @@ select.af-select:disabled {
 
 .opening p:last-child { margin-bottom: 0; }
 
+.intro-page {
+  max-width: 68rem;
+}
+
+.intro-hero {
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.25rem;
+}
+
+.intro-purpose {
+  max-width: 46rem;
+  color: var(--text-dim);
+}
+
+.intro-hero .opening {
+  max-width: 46rem;
+}
+
+.intro-hero .cta-row {
+  margin-top: 1.1rem;
+}
+
+.intro-card {
+  background: var(--panel);
+  border: 1px solid var(--steel);
+  border-radius: var(--radius);
+  padding: 1.05rem 1.15rem 0.35rem;
+  margin: 0 0 0.9rem;
+}
+
+.intro-card h2 {
+  margin-top: 0;
+}
+
+.intro-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.9rem;
+  margin-bottom: 0.9rem;
+}
+
+.intro-grid .intro-card {
+  margin-bottom: 0;
+}
+
+.step-grid {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.7rem;
+  margin: 0.2rem 0 1rem;
+  padding: 0;
+}
+
+.step-grid li {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  margin: 0;
+  padding: 0.75rem 0.7rem;
+  background: var(--bg-elev);
+  border: 1px solid var(--steel);
+  border-radius: var(--radius);
+  font-size: 0.95rem;
+}
+
+.step-index {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  color: var(--amber);
+}
+
+.score-total {
+  font-family: var(--sans);
+  font-size: 0.92rem;
+  color: var(--amber);
+}
+
+.score-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1.35fr;
+  gap: 0.75rem;
+  align-items: start;
+  margin-bottom: 0.4rem;
+}
+
+.score-grid .score-table {
+  margin-bottom: 0;
+}
+
+.score-grid .score-table td:last-child {
+  white-space: normal;
+}
+
 .steps-list li { margin-bottom: 0.7rem; }
 
 .score-table {
@@ -803,6 +903,11 @@ select.af-select:disabled {
   margin-right: 0.5rem;
 }
 
+@media (max-width: 1100px) {
+  .step-grid { grid-template-columns: 1fr 1fr; }
+  .score-grid { grid-template-columns: 1fr; }
+}
+
 /* ---------- stacked / narrow ---------- */
 @media (max-width: 900px) {
   .workspace {
@@ -814,6 +919,11 @@ select.af-select:disabled {
   }
   .progress-meta { margin-left: 0; }
   .ticks { margin-left: 0; }
+  .intro-grid,
+  .step-grid,
+  .score-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
