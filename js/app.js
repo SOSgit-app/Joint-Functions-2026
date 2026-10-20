@@ -8,7 +8,7 @@
   var POINTS_PER_MISSION = 4;
   var REASSESS_PENALTY = 1;
   var MAX_ATTEMPTS = 2;
-  var STATE_VERSION = 2;
+  var STATE_VERSION = 3;
 
   /* Illustrative references. Named aircraft follow the instruction-point asset.
      Missions that name no aircraft use a scene that fits the scenario. */
@@ -18,8 +18,8 @@
       "2": { src: "img/s2-road.jpg", alt: "Fighters on the ramp of a desert aerial port and logistics hub", caption: "Desert theater logistics hub — illustrative" },
       "3": { src: "img/s3-road.jpg", alt: "A stealth fighter climbing over a forested border", caption: "Eastern border air picture — illustrative" },
       "4": { src: "img/s4-road.jpg", alt: "A stealth fighter dispersed on a small Pacific island airstrip", caption: "Dispersed island-chain airfield — illustrative" },
-      "5A": { src: "img/s5a-road.jpg", alt: "A coastal radar with aircraft sharing the same airspace", caption: "Shared joint airspace — illustrative" },
-      "5B": { src: "img/s5b-road.jpg", alt: "A remotely piloted aircraft on a savanna airstrip", caption: "Partner-support airstrip — illustrative" }
+      "5": { src: "img/s5a-road.jpg", alt: "A coastal radar with aircraft sharing the same airspace", caption: "Shared joint airspace — illustrative" },
+      "6": { src: "img/s5b-road.jpg", alt: "A remotely piloted aircraft on a savanna airstrip", caption: "Partner-support airstrip — illustrative" }
     },
     missions: {
       "1.1": { src: "img/m11.jpg", alt: "B-52H Stratofortress over arctic sea ice", caption: "B-52H Stratofortress — illustrative" },
@@ -42,16 +42,16 @@
       "4.3": { src: "img/m43.jpg", alt: "A small stack of pallets and fuel bladders on an island airstrip", caption: "Reduced logistics footprint — illustrative" },
       "4.4": { src: "img/m44.jpg", alt: "A fighter at the end of an island runway at dusk beside a dark radio mast", caption: "Sortie generation during a network outage — illustrative" },
       "4.5": { src: "img/m45.jpg", alt: "F-35A Lightning II over open ocean near a small island outpost", caption: "F-35A Lightning II — illustrative" },
-      "5A.1": { src: "img/m5a1.jpg", alt: "Fighter, helicopter, and transport aircraft sharing a coastal sky", caption: "Unified airspace — illustrative" },
-      "5A.2": { src: "img/m5a2.jpg", alt: "A surface-to-air missile launcher, radar, and fighter covering the same coastline", caption: "Integrated air and missile defense — illustrative" },
-      "5A.3": { src: "img/m5a3.jpg", alt: "Fighters, a tanker, and a transport parked in order on a ramp", caption: "Air allocation — illustrative" },
-      "5A.4": { src: "img/m5a4.jpg", alt: "A military transport flying a clear lane over coastal water, ships off to the side", caption: "Mobility corridor — illustrative" },
-      "5A.5": { src: "img/m5a5.jpg", alt: "Radar dishes on a coastal hill at dusk", caption: "Common operational picture — illustrative" },
-      "5B.1": { src: "img/m5b1.jpg", alt: "MQ-9 Reaper over dry savanna", caption: "MQ-9 Reaper — illustrative" },
-      "5B.2": { src: "img/m5b2.jpg", alt: "U-2S Dragon Lady above a thin cloud deck", caption: "U-2S Dragon Lady — illustrative" },
-      "5B.3": { src: "img/m5b3.jpg", alt: "Controllers on a dry hillside watching a propeller aircraft overhead", caption: "Partner air-ground coordination — illustrative" },
-      "5B.4": { src: "img/m5b4.jpg", alt: "C-130J Super Hercules releasing supply bundles over dry scrub", caption: "C-130J Super Hercules — illustrative" },
-      "5B.5": { src: "img/m5b5.jpg", alt: "A transport on a dirt airstrip with a medical litter waiting on the ramp", caption: "Aeromedical evacuation — illustrative" }
+      "5.1": { src: "img/m5a1.jpg", alt: "Fighter, helicopter, and transport aircraft sharing a coastal sky", caption: "Unified airspace — illustrative" },
+      "5.2": { src: "img/m5a2.jpg", alt: "A surface-to-air missile launcher, radar, and fighter covering the same coastline", caption: "Integrated air and missile defense — illustrative" },
+      "5.3": { src: "img/m5a3.jpg", alt: "Fighters, a tanker, and a transport parked in order on a ramp", caption: "Air allocation — illustrative" },
+      "5.4": { src: "img/m5a4.jpg", alt: "A military transport flying a clear lane over coastal water, ships off to the side", caption: "Mobility corridor — illustrative" },
+      "5.5": { src: "img/m5a5.jpg", alt: "Radar dishes on a coastal hill at dusk", caption: "Common operational picture — illustrative" },
+      "6.1": { src: "img/m5b1.jpg", alt: "MQ-9 Reaper over dry savanna", caption: "MQ-9 Reaper — illustrative" },
+      "6.2": { src: "img/m5b2.jpg", alt: "U-2S Dragon Lady above a thin cloud deck", caption: "U-2S Dragon Lady — illustrative" },
+      "6.3": { src: "img/m5b3.jpg", alt: "Controllers on a dry hillside watching a propeller aircraft overhead", caption: "Partner air-ground coordination — illustrative" },
+      "6.4": { src: "img/m5b4.jpg", alt: "C-130J Super Hercules releasing supply bundles over dry scrub", caption: "C-130J Super Hercules — illustrative" },
+      "6.5": { src: "img/m5b5.jpg", alt: "A transport on a dirt airstrip with a medical litter waiting on the ramp", caption: "Aeromedical evacuation — illustrative" }
     }
   };
 
@@ -598,32 +598,28 @@
       return "<span class=\"" + cls + "\" title=\"Mission " + esc(mm.id) + "\"></span>";
     }).join("");
 
-    var radios = m.options.map(function (o) {
-      var checked = ans.opt === o.id ? " checked" : "";
-      var selCls = ans.opt === o.id ? " selected" : "";
-      var lockCls = locked ? " locked" : "";
-      var dis = locked ? " disabled" : "";
-      var mark = "";
-      if (locked && o.id === ans.opt) {
-        mark = ans.status === "correct" ? " is-correct" : " is-wrong";
-      }
-      return (
-        "<label class=\"radio" + selCls + lockCls + mark + "\">" +
-          "<input type=\"radio\" name=\"recommendation\" value=\"" + esc(o.id) + "\"" + checked + dis + ">" +
-          "<span class=\"opt-id\">" + esc(o.label) + "</span>" +
-          "<span class=\"opt-text\">" + esc(o.text) + "</span>" +
-        "</label>"
-      );
-    }).join("");
-
-    function selectHTML(id, placeholder, options, value) {
-      return "<select class=\"af-select\" id=\"" + id + "\"" + (locked ? " disabled" : "") + ">" +
-        "<option value=\"\">" + esc(placeholder) + "</option>" +
-        options.map(function (opt) {
-          return "<option value=\"" + esc(opt) + "\"" + (value === opt ? " selected" : "") + ">" + esc(opt) + "</option>";
-        }).join("") +
-      "</select>";
+    function choiceRadios(name, choices, selected, idKey) {
+      return choices.map(function (o) {
+        var value = idKey ? o.id : o.text;
+        var checked = selected === value ? " checked" : "";
+        var selCls = selected === value ? " selected" : "";
+        var lockCls = locked ? " locked" : "";
+        var dis = locked ? " disabled" : "";
+        var mark = "";
+        if (locked && selected === value) {
+          mark = ans.status === "correct" ? " is-correct" : " is-wrong";
+        }
+        return (
+          "<label class=\"radio" + selCls + lockCls + mark + "\">" +
+            "<input type=\"radio\" name=\"" + name + "\" value=\"" + esc(value) + "\"" + checked + dis + ">" +
+            "<span class=\"opt-id\">" + esc(o.label || o.id) + "</span>" +
+            "<span class=\"opt-text\">" + esc(o.text) + "</span>" +
+          "</label>"
+        );
+      }).join("");
     }
+
+    var radios = choiceRadios("recommendation", m.options, ans.opt, true);
 
     var status = "";
     if (ans.status === "correct") {
@@ -635,9 +631,12 @@
       status = "<p class=\"status-lock status-warn\" role=\"status\">" + esc(content.reassessTemplate.heading) + " · revise and resubmit (final attempt)</p>";
     }
 
-    var capability = "<ul class=\"capability\">" + m.relevantCapability.map(function (c) {
-      return "<li><span class=\"cap-label\">" + esc(c.label) + ":</span> " + esc(c.text) + "</li>";
-    }).join("") + "</ul>";
+    var capability = "";
+    if (m.relevantCapability && m.relevantCapability.length) {
+      capability = "<div class=\"block\"><h2>Relevant Capability</h2><ul class=\"capability\">" + m.relevantCapability.map(function (c) {
+        return "<li><span class=\"cap-label\">" + esc(c.label) + ":</span> " + esc(c.text) + "</li>";
+      }).join("") + "</ul></div>";
+    }
 
     var backLabel = state.missionIndex === 0 ? "Road to War" : "Back";
     var nextLabel = lastInScenario ? "Scenario Debrief" : "Next Mission";
@@ -667,30 +666,34 @@
             "<div class=\"block op-problem\"><h2>Joint Operational Problem</h2><p>" + esc(m.jointOperationalProblem) + "</p></div>" +
             "<div class=\"block\"><h2>Staff Tension</h2><p>" + esc(m.staffTension) + "</p></div>" +
             "<div class=\"block\"><h2>Decision Required</h2><p>" + esc(m.decisionRequired) + "</p></div>" +
-            "<div class=\"block\"><h2>Relevant Capability</h2>" + capability + "</div>" +
+            capability +
             visualFigure(VISUALS.missions[m.id], "brief-visual") +
           "</section>" +
           "<section class=\"panel panel-right\" aria-label=\"Student Decision\">" +
             "<p class=\"panel-kicker\">Student Decision</p>" +
             "<div class=\"step\">" +
               "<div class=\"step-num\">Step 1</div>" +
-              "<h2>Make the Staff Recommendation</h2>" +
+              "<h2>Select the Staff Statement</h2>" +
               "<fieldset class=\"radios\">" +
-                "<legend class=\"field-label\">Select the recommendation that best solves the Joint Force operational problem</legend>" +
+                "<legend class=\"field-label\">Select the statement the staff should advance</legend>" +
                 radios +
               "</fieldset>" +
             "</div>" +
             "<div class=\"step\">" +
               "<div class=\"step-num\">Step 2</div>" +
-              "<h2>Identify the Air Force Core Function</h2>" +
-              "<label class=\"field-label\" for=\"af-select\">Air Force Core Function</label>" +
-              selectHTML("af-select", "Select Air Force Core Function", content.afCoreFunctionOptions, ans.af) +
+              "<h2>Match the Air Force Core Function</h2>" +
+              "<fieldset class=\"radios\">" +
+                "<legend class=\"field-label\">Match the function the statement is employing — not a function you wish it employed</legend>" +
+                choiceRadios("af-function", m.afChoices, ans.af, false) +
+              "</fieldset>" +
             "</div>" +
             "<div class=\"step\">" +
               "<div class=\"step-num\">Step 3</div>" +
-              "<h2>Identify the Joint Function</h2>" +
-              "<label class=\"field-label\" for=\"jf-select\">Joint Function</label>" +
-              selectHTML("jf-select", "Select Joint Function", content.jointFunctionOptions, ans.jf) +
+              "<h2>Match the Joint Function</h2>" +
+              "<fieldset class=\"radios\">" +
+                "<legend class=\"field-label\">Which Joint Function is that same statement advancing? One Joint Function only</legend>" +
+                choiceRadios("jf-function", m.jfChoices, ans.jf, false) +
+              "</fieldset>" +
             "</div>" +
             status +
             (canNext
@@ -712,37 +715,28 @@
   function bindMission() {
     var m = currentMission();
     var ans = answerFor(m.id);
-    var afSel = document.getElementById("af-select");
-    var jfSel = document.getElementById("jf-select");
-    var radios = document.querySelectorAll("input[name=\"recommendation\"]");
-
     function refreshSubmit() {
       var btn = document.getElementById("btn-submit");
       if (btn) btn.disabled = !(!isResolved(ans) && ans.opt && ans.af && ans.jf);
     }
 
-    Array.prototype.forEach.call(radios, function (r) {
-      r.addEventListener("change", function () {
-        ans.opt = r.value;
-        Array.prototype.forEach.call(document.querySelectorAll(".radio"), function (lab) {
-          lab.classList.toggle("selected", lab.querySelector("input").checked);
+    function bindRadios(name, apply) {
+      var radios = document.querySelectorAll("input[name=\"" + name + "\"]");
+      Array.prototype.forEach.call(radios, function (r) {
+        r.addEventListener("change", function () {
+          apply(r.value);
+          Array.prototype.forEach.call(document.querySelectorAll("input[name=\"" + name + "\"]"), function (input) {
+            input.parentNode.classList.toggle("selected", input.checked);
+          });
+          persist();
+          refreshSubmit();
         });
-        persist();
-        refreshSubmit();
       });
-    });
+    }
 
-    afSel.addEventListener("change", function () {
-      ans.af = afSel.value;
-      persist();
-      refreshSubmit();
-    });
-
-    jfSel.addEventListener("change", function () {
-      ans.jf = jfSel.value;
-      persist();
-      refreshSubmit();
-    });
+    bindRadios("recommendation", function (value) { ans.opt = value; });
+    bindRadios("af-function", function (value) { ans.af = value; });
+    bindRadios("jf-function", function (value) { ans.jf = value; });
 
     document.getElementById("btn-back").addEventListener("click", goBack);
     document.getElementById("btn-submit").addEventListener("click", submitRecommendation);

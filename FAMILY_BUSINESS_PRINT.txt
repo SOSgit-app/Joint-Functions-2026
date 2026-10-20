@@ -1,0 +1,1023 @@
+ 
+FROM COMPETITION TO CRISIS
+SQUADRON OFFICER SCHOOL
+The Family Business
+Airpower and the Joint Force — built so every captain goes back more useful
+ 
+UNCLASSIFIED / TRAINING  ·  Notional  ·  ~300–600 captains  ·  2026-10-08
+COMPLETE PRINT PACKAGE  ·  Six Scenarios  ·  Thirty Missions  ·  Answer Keys
+HOW EACH MISSION WORKS
+1. Read the picture — commander’s context, operational problem, and staff tension.
+2. STEP 1 — Select the staff statement the staff should advance (A, B, or C).
+3. STEP 2 — Match the Air Force Core Function that statement is employing.
+4. STEP 3 — Match the Joint Function that statement is advancing for the JFC.
+5. Check the key. Answer the return question about your function at home station.
+DECISION SEQUENCE (LOCKED)
+Staff Statement   ?   Air Force Core Function   ?   Joint Function
+WHAT IS SCORED
+HIGH — Sound statement selection · Clear operational why · Named risk, authority, or dependency
+MEDIUM — How your function connects when you go back
+LOW–MEDIUM — Core / Joint labels as shared language — not the primary pass/fail gate
+Why you are here
+You are not here to become an air operations specialist. You are here so that when you return to your squadron — finance, logistics, maintenance, cyber, medical, personnel, intel, acquisitions, security forces, ops, or any other function — you understand the Joint Force problems airpower is asked to solve, the tradeoffs leaders make, and where your work enables or constrains those options.
+If you only learn labels, you missed the point. If you can explain the problem, the tradeoff, and what your function must deliver or protect when you get home, you succeeded.
+Contents
+  SCENARIO 1 OF 6  ·  CRISIS RESPONSE  —  Arctic Contingency
+  SCENARIO 2 OF 6  ·  MAJOR COMBAT OPERATIONS  —  Desert Theater Crisis
+  SCENARIO 3 OF 6  ·  CRISIS RESPONSE  —  Eastern Border Contingency
+  SCENARIO 4 OF 6  ·  MAJOR COMBAT OPERATIONS  —  Contested Island-Chain
+  SCENARIO 5 OF 6  ·  CRISIS RESPONSE  —  Regional Hemispheric Crisis
+  SCENARIO 6 OF 6  ·  LIMITED CONTINGENCY  —  African Partner-Support Operation
+  Back to the Squadron  ·  Answer Key (all 30)  ·  Facilitator Notes
+
+
+ 
+SCENARIO 1 OF 6  ·  CRISIS RESPONSE
+Arctic Contingency
+The Window Before the Fleet Arrives
+ 
+PURPOSE  This scenario teaches that airpower creates operational options when distance, weather, sea ice, and delayed maritime access constrain the Joint Force. The situation is notional. It is built to mirror publicly documented Arctic operating realities: ice-restricted surface access, weather-killed fixed radars, mobile coastal-defense missiles covering approaches, austere forward detachments, and tanker-dependent defensive persistence.
+WHY THE JOINT FORCE IS INVOLVED  A regional competitor is probing a disputed high-latitude archipelago. Seasonal sea ice has closed the direct surface routes. Forward warning sites are already intermittent from ice load and power strain. Maritime forces cannot reposition on the threat’s timeline.
+CRISIS TRIGGER  A hostile surface group has closed inside the weapons envelope of key approaches and two forward warning sites. Weather and residual ice make a rapid surface response impossible. The clock is hours, not days.
+WHY THIS MATTERS  Lose the approaches and the early-warning picture, and the adversary hardens an anti-access posture before follow-on forces arrive. The commander’s problem is whether the Joint Force still owns the entry.
+WHY AIRPOWER MATTERS  Airpower is the only component that can still reach the problem at the speed the ice denies to surface forces. The staff must recommend actions that create time — not actions that wait for the fleet.
+Missions in this scenario
+1.1  Open the Maritime Approach1.2  Restore the Northern Air Picture1.3  Find the Coastal Missile Threat1.4  Sustain the Forward Interceptor Detachment1.5  Preserve Continuous Defensive Coverage
+On every mission:  (1) Select the staff statement  ?  (2) Match the Core Function  ?  (3) Match the Joint Function
+
+
+ 
+SCENARIO 1 OF 6  ·  CRISIS RESPONSE
+Arctic Contingency
+Mission 1.1 — Open the Maritime Approach
+COMMANDER'S CONTEXT
+A hostile surface group sits inside the threat ring of the northern approach. Two warning sites are already inside the outer engagement envelope. Surface combatants that could contest it are days away behind ice. Every hour unchallenged is an hour the group can expand coverage or cue coastal systems.
+JOINT OPERATIONAL PROBLEM
+Reduce the maritime threat to the approach before hostile fires isolate warning sites — even though surface forces cannot yet close.
+STAFF TENSION
+Maritime desk: do not strike until surface forces can hold what air creates. Air desk: ships cannot transit the ice in time; the only window left is airborne and it is closing.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+ADelay offensive action until surface forces arrive, while increasing defensive surveillance of the approach.BUse a long-range stand-off strike option to reduce the hostile surface threat and preserve the approach while maritime forces reposition.CAssign available aircraft only to visible presence missions until the maritime component can assume responsibility for the threat.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ARapid Global MobilityBGlobal Precision AttackCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint SustainmentBJoint FiresCJoint Protection
+KEY  ·  Statement B  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Preserve access before the surface force arrives
+Read Statement B: it is a stand-off strike on the surface threat. That is Global Precision Attack / Joint Fires. Match the action in the statement (attack), not the campaign purpose (access). A waits for ships that cannot arrive. C substitutes presence for effect.
+
+
+ 
+SCENARIO 1 OF 6  ·  CRISIS RESPONSE
+Arctic Contingency
+Mission 1.2 — Restore the Northern Air Picture
+COMMANDER'S CONTEXT
+Overnight icing and a generator failure took the primary ground radar offline. Tracks that used to hand off cleanly now disappear into a dead sector. Defensive formations are still airborne on partial pictures. The adversary has not paused.
+JOINT OPERATIONAL PROBLEM
+Restore a shared air picture and coordinated defensive control before the radar outage becomes a free corridor.
+STAFF TENSION
+Ops: pause counterair until the fixed site is back — better a controlled gap than uncoordinated engagements. Floor: keep flying on organic sensors — better some coverage than none. Neither restores a common picture someone can still direct.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AAllow defensive formations to continue independent patrols using their organic sensors until the fixed radar site is repaired.BSuspend defensive air operations until the radar site returns to service to avoid operating with incomplete information.CEstablish an airborne battle-management capability to rebuild the shared air picture, coordinate defensive operations, and bridge the surveillance gap until fixed infrastructure is restored.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Integrated ISRBCommand and ControlCRapid Global Mobility
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint IntelligenceBJoint Command and ControlCJoint Movement and Maneuver
+KEY  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Restore the shared air picture
+Read Statement C: airborne battle management to rebuild the shared picture and coordinate defense. That is Command and Control / Joint C2. Collection is Mission 1.3. A leaves the force uncoordinated. B stops the defense.
+
+
+ 
+SCENARIO 1 OF 6  ·  CRISIS RESPONSE
+Arctic Contingency
+Mission 1.3 — Find the Coastal Missile Threat
+COMMANDER'S CONTEXT
+A mobile coastal-defense cruise-missile system has moved into concealment overlooking the critical approach. Fixed sensors went blind with the radar failure. Surface reconnaissance cannot close the find in time. If the system lights after friendly forces commit, the first notice may be inbound missiles.
+JOINT OPERATIONAL PROBLEM
+Locate the concealed coastal missile threat before it can engage inbound forces and deny the approach.
+STAFF TENSION
+Intel: hold airborne ISR for higher-fidelity national means — fewer wasted sorties. Ops: the approach will be committed before that pass lands; search the likely corridors now with what you have.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AWait for national technical means to confirm the exact location before committing any airborne ISR assets.BEmploy available airborne ISR to search the most likely coastal corridors and cue follow-on targeting as soon as the system is located.CAssume the threat is not yet operational and continue planned transit routes without additional collection.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBGlobal Integrated ISRCCommand and Control
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint IntelligenceCJoint Command and Control
+KEY  ·  Statement B  ?  Core: Global Integrated ISR  ?  Joint: Joint Intelligence
+Find the threat before it finds you
+Read Statement B: airborne ISR to search and cue. That is Global Integrated ISR / Joint Intelligence — find, not strike. A waits past the window. C assumes the threat away.
+
+
+ 
+SCENARIO 1 OF 6  ·  CRISIS RESPONSE
+Arctic Contingency
+Mission 1.4 — Sustain the Forward Interceptor Detachment
+COMMANDER'S CONTEXT
+A small interceptor detachment is still generating from an austere forward strip. Parts and de-icing fluid are nearly gone. Surface resupply turned back for ice. If the detachment goes non-mission-capable, the approach loses the fighters covering the radar gap.
+JOINT OPERATIONAL PROBLEM
+Keep the forward detachment generating before logistics shortfalls open a coverage hole the adversary can time.
+STAFF TENSION
+Logistics: ration remaining fluid and accept fewer aircraft until the sea opens. Ops: pull the detachment rear where supply is easy — and accept the empty approach. Airlift of the specific parts and fluid is also on the table.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AConserve supplies and accept reduced aircraft availability until maritime resupply can reach the detachment.BConduct an austere airlift mission to deliver the required maintenance and de-icing supplies before the detachment loses the ability to sustain its defensive role.CRelocate the entire detachment to a rear operating base and accept the loss of the forward defensive posture until conditions improve.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBRapid Global MobilityCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint SustainmentCJoint Protection
+KEY  ·  Statement B  ?  Core: Rapid Global Mobility  ?  Joint: Joint Sustainment
+Keep the detachment mission-capable
+Read Statement B: austere airlift of parts and de-icing fluid. That is Rapid Global Mobility / Joint Sustainment. Purpose is defensive; action is sustainment. A rations into irrelevance. C relocates coverage off the approach.
+
+
+ 
+SCENARIO 1 OF 6  ·  CRISIS RESPONSE
+Arctic Contingency
+Mission 1.5 — Preserve Continuous Defensive Coverage
+COMMANDER'S CONTEXT
+On-station time is collapsing. Transit distance, weather, and limited diverts force fighters off station on a predictable rhythm. Anyone watching can see the gaps. Tanker capacity exists — and is also being held for a later contingency.
+JOINT OPERATIONAL PROBLEM
+Close predictable patrol gaps without a new forward base. Persistence is the product; tanker support is the lever.
+STAFF TENSION
+Defense: use the tanker now to overlap patrols and erase the schedule the adversary can already read. Plans: hold the tanker for a future massing problem and leave the current pattern alone.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AAccept periodic gaps in defensive coverage while each defensive formation returns to base for fuel.BReserve available aerial-refueling capacity for later contingency requirements and preserve current fighter sortie patterns.CEstablish an aerial-refueling plan that enables overlapping defensive patrols and extends on-station time, reducing predictable gaps in coverage.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AAir SuperiorityBRapid Global MobilityCGlobal Precision Attack
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint ProtectionCJoint Intelligence
+KEY  ·  Statement C  ?  Core: Rapid Global Mobility  ?  Joint: Joint Protection
+Extend on-station time, close the gaps
+DISCRIMINATOR — If the statement keeps the force generating, mark Sustainment. If it denies the adversary a window of attack, mark Protection. Statement C builds a tanker plan to close gaps: Core is Rapid Global Mobility (refueling); Joint is Protection (close the window). A accepts the gaps. B saves the tanker and spends the defense.
+
+
+ 
+SCENARIO 2 OF 6  ·  MAJOR COMBAT OPERATIONS
+Desert Theater Crisis
+The Decisive Allocation
+ 
+PURPOSE  This scenario teaches that finite airpower must be prioritized against the Joint Force Commander’s most consequential operational problem. The demand for immediate support across multiple fronts does not automatically justify fragmenting airpower into permanent local allocations. The joint staff must balance urgent tactical requests against threats that could disable theater-wide sustainment and operational reach.
+WHY THE JOINT FORCE IS INVOLVED  A multi-axis offensive is underway across an arid theater. Ground formations in contact want persistent air support. At the same time, the theater aerial port and logistics hub — fuel, munitions, reinforcements, aeromedical flow for the whole force — sits inside a mobile ballistic-missile threat ring. Strike capacity cannot cover both.
+CRISIS TRIGGER  Troops-in-contact reports are climbing while intelligence confirms launchers preparing against the primary aerial port and logistics hub. The next few hours decide whether the Joint Force still has a theater lifeline.
+WHY THIS MATTERS  Lose the hub and the force loses reinforcement, fuel, munitions, and patient movement across the theater. Local tactical success does not matter if the force cannot sustain itself.
+WHY AIRPOWER MATTERS  Airpower can provide theater fires, defensive counterair, precise CAS, electronic attack, and flexible reallocation. The staff problem is which demand gets finite capacity first.
+Missions in this scenario
+2.1  Protect the Theater Logistics Hub2.2  Defend Forward Sustainment Nodes2.3  Support Isolated Friendly Forces2.4  Disrupt the Adversary’s Command Network2.5  Preserve Flexible Airpower Allocation
+On every mission:  (1) Select the staff statement  ?  (2) Match the Core Function  ?  (3) Match the Joint Function
+
+
+ 
+SCENARIO 2 OF 6  ·  MAJOR COMBAT OPERATIONS
+Desert Theater Crisis
+Mission 2.1 — Protect the Theater Logistics Hub
+COMMANDER'S CONTEXT
+The land net is full of troops-in-contact calls. Every sector wants persistent overwatch. On the same picture, missile indicators are lighting on the theater logistics hub. The air tasking board does not have enough lines for both.
+JOINT OPERATIONAL PROBLEM
+Reduce the missile threat to the hub before it is disabled — even while legitimate local CAS demands continue. Which failure ends the campaign’s ability to fight?
+STAFF TENSION
+Land: divide strike aircraft evenly so every sector gets something. Joint staff: even coverage leaves the hub exposed and the whole force at risk. Both arguments are made in good faith.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AAllocate all available strike aircraft evenly among frontline formations to provide persistent localized overwatch.BPrioritize a concentrated theater-level strike effort against the mobile missile threat while retaining only the minimum necessary support for immediate ground-force emergencies.CAssign the missile threat entirely to ground formations and preserve all air assets for close air support.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ARapid Global MobilityBGlobal Precision AttackCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint SustainmentBJoint FiresCJoint Protection
+KEY  ·  Statement B  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Preserve the theater lifeline
+Read Statement B: concentrated strike on the missile threat. That is Global Precision Attack / Joint Fires. DISCRIMINATOR — object you care about is the hub; action in the statement is attack. Do not mark Protection or Sustainment for campaign purpose. A fragments capacity. C ignores the theater threat.
+
+
+ 
+SCENARIO 2 OF 6  ·  MAJOR COMBAT OPERATIONS
+Desert Theater Crisis
+Mission 2.2 — Defend Forward Sustainment Nodes
+COMMANDER'S CONTEXT
+One-way attack drones are inbound on forward fuel and ammunition nodes that feed multiple components. Organic point defenses are thin. Airborne defensive capacity exists and is already being pulled toward the front.
+JOINT OPERATIONAL PROBLEM
+Protect the forward sustainment nodes from aerial attack before loss of fuel and ammunition cascades into multi-component failure.
+STAFF TENSION
+Sustainment: each depot handles its own defense; free fighters for the front. Operations: a coordinated inbound threat will overwhelm point defenses unless the Joint Force builds a layered response now.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+ADirect every sustainment site to use only its organic defensive measures and preserve airborne forces for later operations.BCoordinate a joint defensive-counterair response that intercepts or disrupts the aerial threat before it reaches sustainment nodes, while integrating the effort with ground-based defenses.CConcentrate all available defensive aircraft over the most politically significant depot and accept risk at the remaining sustainment sites.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBAir SuperiorityCRapid Global Mobility
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint ProtectionCJoint Sustainment
+KEY  ·  Statement B  ?  Core: Air Superiority  ?  Joint: Joint Protection
+Protect the nodes before they are lost
+Read Statement B: joint defensive-counterair before the threat reaches the nodes. That is Air Superiority / Joint Protection. DISCRIMINATOR — intercept of an inbound aerial threat is Protection, not Fires against a ground target and not Sustainment of depot inventory. A leaves nodes exposed. C trades one depot for the spine.
+
+
+ 
+SCENARIO 2 OF 6  ·  MAJOR COMBAT OPERATIONS
+Desert Theater Crisis
+Mission 2.3 — Support Isolated Friendly Forces
+COMMANDER'S CONTEXT
+An isolated joint element is surrounded by enemy armor in dense urban terrain. The call for support is legitimate. The same sensor picture shows civilians and friendly positions in the same blocks. High-volume fires would be simple. Discriminating fires are slower.
+JOINT OPERATIONAL PROBLEM
+Support the isolated force while managing civilian and friendly risk under applicable procedures. The requirement is discriminating effects — not simply more firepower.
+STAFF TENSION
+Some staff want immediate volume to relieve pressure. Others insist density requires precision, PID, and controlled effects. One protects the unit from the enemy; the other also protects the force from the consequences of an undisciplined strike.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AAuthorize unrestricted high-volume fires into the urban area to maximize pressure on surrounding enemy forces.BWithhold all air support until the isolated force can break contact and move to open terrain.CEmploy precision, controlled-effects fires with rigorous target verification and positive identification to support the isolated force while managing risk to civilians and friendly personnel.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ARapid Global MobilityBGlobal Precision AttackCCommand and Control
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint SustainmentBJoint FiresCJoint Intelligence
+KEY  ·  Statement C  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Precision support under constraint
+Read Statement C: precision, controlled-effects fires under PID. That is Global Precision Attack / Joint Fires. A substitutes volume for discrimination. B abandons the force.
+
+
+ 
+SCENARIO 2 OF 6  ·  MAJOR COMBAT OPERATIONS
+Desert Theater Crisis
+Mission 2.4 — Disrupt the Adversary’s Command Network
+COMMANDER'S CONTEXT
+Adversary command nodes are synchronizing a multi-axis push. Kinetic options against some nodes carry collateral and escalation costs the commander may not want on this timeline. A window exists to disrupt the network through electromagnetic attack.
+JOINT OPERATIONAL PROBLEM
+Disrupt the adversary’s ability to synchronize multi-axis operations before the offensive reaches a decisive phase. The required effect is on the network’s ability to command.
+STAFF TENSION
+Kinetic cell: only steel on target is reliable. Spectrum cell: electronic attack can break synchronization with lower escalation cost if the window is used now.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AUse coordinated airborne electronic attack to disrupt adversary communications and degrade the enemy’s ability to synchronize counterattacks, while managing friendly-force and partner-spectrum requirements.BAvoid electronic attack entirely and rely only on kinetic strikes against individual armored formations.CAttack every identified node with kinetic munitions regardless of collateral or escalation considerations.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ACommand and ControlBGlobal Precision AttackCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint InformationCJoint Protection
+KEY  ·  Statement A  ?  Core: Command and Control  ?  Joint: Joint Information
+Disrupt synchronization without unnecessary escalation
+DISCRIMINATOR — This is a test of precision: distinguishing an action's category from its primary effect. While EA is a form of non-lethal fire, its primary intended effect here is to degrade the adversary's ability to synchronize. This is an effect in the information environment. Therefore, this curriculum maps it to Command and Control / Joint Information. If the intent were physical destruction, it would be GPA / Joint Fires. Statement A is the correct application of EA to achieve an information effect.
+
+
+ 
+SCENARIO 2 OF 6  ·  MAJOR COMBAT OPERATIONS
+Desert Theater Crisis
+Mission 2.5 — Preserve Flexible Airpower Allocation
+COMMANDER'S CONTEXT
+Ground commanders are asking for permanent dedicated strike aircraft — predictable local support. The theater picture is still moving. The threat that mattered at 0600 is not the threat at 1800. Permanent allocation makes every sector feel safer and makes massing impossible.
+JOINT OPERATIONAL PROBLEM
+Retain the ability to prioritize, mass, and reallocate finite airpower as conditions change — without dismissing legitimate component needs.
+STAFF TENSION
+Components: without dedicated aircraft, support always arrives late. Joint staff: dedicated aircraft ensure support never arrives in mass where the commander needs it most.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AAssign dedicated strike squadrons permanently to each ground formation to ensure predictable local support.BAllow each aircraft commander to select the mission and target set most appropriate to the local situation.CMaintain centralized Joint Command and Control so the Joint Force can prioritize, mass, and reallocate airpower as theater conditions and commander priorities change.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBCommand and ControlCRapid Global Mobility
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint Command and ControlCJoint Movement and Maneuver
+KEY  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Retain the ability to mass
+Read Statement C: centralized Joint C2 to prioritize and reallocate. That is Command and Control / Joint C2. A permanently slices finite airpower. B confuses decentralized execution with no theater prioritization.
+
+
+ 
+SCENARIO 3 OF 6  ·  CRISIS RESPONSE
+Eastern Border Contingency
+Fight Through the Silence
+ 
+PURPOSE  This scenario teaches that loss of connectivity does not automatically require loss of initiative. Air Force forces must be able to continue operations within commander’s intent when communications are degraded, disrupted, or denied. Centralized command, distributed control, and decentralized execution remain the framework.
+WHY THE JOINT FORCE IS INVOLVED  A peer adversary is advancing across a contested border while using jamming, cyber disruption, navigation interference, and information manipulation to slow the Joint Force decision cycle. Formations still have intent, ROE, and pre-planned tasks. Continuous confirmation from higher headquarters is gone.
+CRISIS TRIGGER  Reliable links between command nodes, forward forces, and airborne formations have collapsed or gone intermittent. The staff’s first instinct is to wait for the network. The adversary is not waiting.
+WHY THIS MATTERS  If the Joint Force treats loss of communications as a reason to halt, the adversary gains freedom to maneuver and mass. Initiative is not a network setting. It is a decision.
+WHY AIRPOWER MATTERS  Airpower can still defend, collect, relay, assess, and protect the integrity of tactical information — if operations stay inside commander’s intent and the staff recommends resilient C2 rather than paralysis.
+Missions in this scenario
+3.1  Continue Operations Under Severed Communications3.2  Reconnect Isolated Forces and Aircraft3.3  Restore Awareness Against a Low-Observable Threat3.4  Confirm Operational Effects3.5  Defend the Tactical Information Environment
+On every mission:  (1) Select the staff statement  ?  (2) Match the Core Function  ?  (3) Match the Joint Function
+
+
+ 
+SCENARIO 3 OF 6  ·  CRISIS RESPONSE
+Eastern Border Contingency
+Mission 3.1 — Continue Operations Under Severed Communications
+COMMANDER'S CONTEXT
+Higher-headquarters voice nets are quiet or unreadable under jamming and cyber effects. Forward formations still hold valid intent, ROE, and pre-planned defensive tasks. Some staff are already drafting a hold-in-place until communications return. Outside the TOC, the adversary’s tempo has not slowed.
+JOINT OPERATIONAL PROBLEM
+Continue defensive operations despite loss of continuous higher-HQ connectivity before the adversary converts the pause into freedom of maneuver.
+STAFF TENSION
+Hold until continuous higher-HQ communications return — no action without confirmation. Or keep fighting inside the intent already issued — because waiting is the effect the jamming was designed to produce.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AContinue executing defensive operations within the established commander’s intent, authorities, and pre-planned tasks while seeking to restore connectivity.BHalt all operations and hold current positions until continuous higher-headquarters communications are restored.CAllow each formation to independently expand its mission beyond the original intent without further coordination.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBCommand and ControlCRapid Global Mobility
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint Command and ControlCJoint Sustainment
+KEY  ·  Statement A  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Preserve initiative through mission command
+Read Statement A: continue inside established intent and pre-planned tasks while restoring connectivity. That is Command and Control / Joint C2. B cedes initiative. C freelances beyond intent — not mission command.
+
+
+ 
+SCENARIO 3 OF 6  ·  CRISIS RESPONSE
+Eastern Border Contingency
+Mission 3.2 — Reconnect Isolated Forces and Aircraft
+COMMANDER'S CONTEXT
+Forward elements and airborne formations are on intermittent links. Status and targeting traffic that used to reach the JOC is late, fragmented, or missing. Primary satellite paths are degraded. Airborne communications relay is available on this cycle.
+JOINT OPERATIONAL PROBLEM
+Restore a usable information path between isolated forces and the joint command structure before lack of shared awareness makes coordinated action impossible.
+STAFF TENSION
+Network: protect the primary architecture and wait for recovery. Operators: any path that works now. Architectural purity versus operational connectivity.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AWait for the primary satellite communications architecture to recover before attempting any alternative connectivity.BAccept prolonged isolation of forward elements and continue operations without shared situational awareness.CEmploy available airborne communications relay capability to restore an information path between isolated forces and the joint operations center.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Integrated ISRBCommand and ControlCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint IntelligenceBJoint Command and ControlCJoint Protection
+KEY  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Restore the information path
+Read Statement C: airborne communications relay to restore the path. That is Command and Control / Joint C2 — not intelligence collection, not air superiority. A waits. B accepts isolation.
+
+
+ 
+SCENARIO 3 OF 6  ·  CRISIS RESPONSE
+Eastern Border Contingency
+Mission 3.3 — Restore Awareness Against a Low-Observable Threat
+COMMANDER'S CONTEXT
+Indications of a low-observable air threat have appeared where fixed sensors are degraded or unreliable. The air picture has a hole exactly where the threat is most dangerous. Defensive decisions are being made on partial information.
+JOINT OPERATIONAL PROBLEM
+Restore awareness of the low-observable threat before it penetrates and strikes high-value targets. Awareness is a condition of air superiority.
+STAFF TENSION
+Rely only on remaining ground sensors and accept the gap. Or put airborne sensing and fusion into the hole now. Assuming the threat is absent until proven is also being floated.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+ARely exclusively on remaining ground-based sensors and accept gaps in the air picture.BEmploy available airborne sensing and sensor-fusion capability to restore awareness of the low-observable threat and support defensive decisions.CAssume the threat is not present and maintain current defensive posture without additional sensing.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ARapid Global MobilityBAir SuperiorityCGlobal Precision Attack
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint SustainmentBJoint ProtectionCJoint Fires
+KEY  ·  Statement B  ?  Core: Air Superiority  ?  Joint: Joint Protection
+Gain awareness to protect the force
+DISCRIMINATOR — This tests the distinction between sensing for intelligence and sensing for immediate protection. Pure find-and-cue for a future targeting cycle ? GISR / Joint Intelligence. Using a sensor to plug a known gap in the defensive air picture against an active threat for immediate engagement ? Air Superiority / Joint Protection. Statement B addresses the immediate defensive need. A accepts the risk, and C assumes it away.
+
+
+ 
+SCENARIO 3 OF 6  ·  CRISIS RESPONSE
+Eastern Border Contingency
+Mission 3.4 — Confirm Operational Effects
+COMMANDER'S CONTEXT
+Previous strikes and defensive actions are complete. The next decision — re-attack, shift, or transition — depends on whether desired effects were achieved. External collection is delayed. Airborne sensing that can do BDA is available now.
+JOINT OPERATIONAL PROBLEM
+Confirm operational effects before committing additional forces or changing the plan on incomplete information.
+STAFF TENSION
+Wait for the next external collection opportunity to avoid acting on partial BDA. Or answer the commander’s question now with the sensors on this cycle — delay itself holds the old plan.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AUse available airborne sensing to collect and share timely battle-damage information that supports the commander’s next decision.BWait for the next available external collection opportunity before changing the operational plan.CAssume the previous actions achieved full effect and commit additional resources without further assessment.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Integrated ISRBGlobal Precision AttackCCommand and Control
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint IntelligenceBJoint FiresCJoint Command and Control
+KEY  ·  Statement A  ?  Core: Global Integrated ISR  ?  Joint: Joint Intelligence
+Confirm effects before the next decision
+Read Statement A: airborne sensing for timely battle-damage information. That is Global Integrated ISR / Joint Intelligence — assessment, not a new strike. B delays. C assumes success.
+
+
+ 
+SCENARIO 3 OF 6  ·  CRISIS RESPONSE
+Eastern Border Contingency
+Mission 3.5 — Defend the Tactical Information Environment
+COMMANDER'S CONTEXT
+Suspicious tracks and contradictory data are appearing on tactical displays. Adversary cyber activity is the leading explanation. Fighting on unverified data risks the wrong engagement. Shutting down every digital system abandons joint speed.
+JOINT OPERATIONAL PROBLEM
+Preserve trusted information for continued decision-making before corrupted data produces fratricide, missed threats, or paralysis.
+STAFF TENSION
+Keep using every track and sort it out later. Or kill digital systems and go fully manual. Neither preserves a usable, verified decision path.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AContinue using all available tracks and data without additional validation to preserve operational tempo.BShut down all digital systems indefinitely and return entirely to manual reporting methods.CIsolate affected systems, investigate suspected compromise, maintain defensive cyber operations, and preserve verified information paths for continued joint decision-making.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Integrated ISRBCommand and ControlCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint IntelligenceBJoint ProtectionCJoint Fires
+KEY  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Protection
+Protect the information required to fight
+Read Statement C: isolate affected systems, investigate, maintain defensive cyber, preserve verified paths. That is Command and Control / Joint Protection — protect the force from false-track decisions. A trusts corrupted data. B abandons digital advantage indefinitely.
+
+
+ 
+SCENARIO 4 OF 6  ·  MAJOR COMBAT OPERATIONS
+Contested Island-Chain
+Survive to Generate Sorties
+ 
+PURPOSE  This scenario teaches that airpower must survive in order to generate combat power. In a contested environment, concentrating aircraft, fuel, munitions, maintenance personnel, and command-and-control functions at a small number of locations may create an unacceptable operational vulnerability. Agile Combat Employment is the proactive and reactive scheme of maneuver designed to generate combat power through agile, resilient, and adaptive employment.
+WHY THE JOINT FORCE IS INVOLVED  A contested island-chain is the focal point of a regional crisis. The Joint Force must protect maritime movement, sustain allied positions, and keep generating airpower under missile threat. The geography favors the side that survives concentrated attack. Concentration is how the force is currently based.
+CRISIS TRIGGER  Major operating locations and centralized sustainment hubs are inside the threat ring. The staff must decide: keep aircraft, fuel, munitions, maintenance, and C2 stacked for efficiency — or distribute so a single strike cannot end the sortie story.
+WHY THIS MATTERS  If combat power remains concentrated, one successful attack can end the Joint Force’s ability to generate sorties. Survival is not a separate phase from combat power. It is the prerequisite.
+WHY AIRPOWER MATTERS  Airpower can generate effects from dispersed and austere locations if the force can survive, sustain itself, and still command and control under threat. ACE is the scheme. Staff recommendations must make it real.
+Missions in this scenario
+4.1  Disperse Combat Power Before the Strike4.2  Sustain Forward Operations Without Permanent Infrastructure4.3  Reduce the Logistics Footprint4.4  Preserve Sortie Generation During Network Outages4.5  Defend the Isolated Outpost
+On every mission:  (1) Select the staff statement  ?  (2) Match the Core Function  ?  (3) Match the Joint Function
+
+
+ 
+SCENARIO 4 OF 6  ·  MAJOR COMBAT OPERATIONS
+Contested Island-Chain
+Mission 4.1 — Disperse Combat Power Before the Strike
+COMMANDER'S CONTEXT
+The threat to the main operating base has moved from possible to imminent. On the ramp: combat aircraft, fuel, munitions, and the maintenance capacity that turns them. In the TOC: keep everything stacked for today’s sortie rate, or disperse before a strike turns that rate into zero for the week.
+JOINT OPERATIONAL PROBLEM
+Reduce the vulnerability of concentrated combat power before a strike destroys or degrades the ability to generate sorties.
+STAFF TENSION
+Efficiency: consolidate for better maintenance and higher daily rate. Survivability: disperse now for a lower peak rate that still exists after the missiles land.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+ADisperse combat aircraft and essential support elements to alternate and austere locations before the expected strike, consistent with Agile Combat Employment principles.BKeep all aircraft and support consolidated at the main operating base to maximize maintenance efficiency and sortie generation rate.CMove only non-essential support equipment while leaving combat aircraft concentrated at the primary base.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ARapid Global MobilityBAir SuperiorityCGlobal Precision Attack
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint SustainmentBJoint ProtectionCJoint Fires
+KEY  ·  Statement A  ?  Core: Rapid Global Mobility  ?  Joint: Joint Protection
+Preserve combat power through distribution
+DISCRIMINATOR — This tests the functions that enable Agile Combat Employment (ACE). The decision to disperse combat power uses mobility assets to preserve the force. Therefore, the core function is Rapid Global Mobility. The purpose of this action is to protect the force from attack by reducing vulnerability, making the joint function Joint Protection. Statement A accomplishes this. B maintains a single, vulnerable target. C moves support elements but leaves the primary combat power at risk.
+
+
+ 
+SCENARIO 4 OF 6  ·  MAJOR COMBAT OPERATIONS
+Contested Island-Chain
+Mission 4.2 — Sustain Forward Operations Without Permanent Infrastructure
+COMMANDER'S CONTEXT
+Dispersion is underway. Aircraft and support are on austere sites with limited permanent infrastructure. Fuel, munitions, and parts must reach those sites or dispersion becomes a slow failure. Wet-wing and austere airlift are available. Pulling everyone back to the main base recreates the original target.
+JOINT OPERATIONAL PROBLEM
+Sustain forward dispersed operations without permanent infrastructure before inability to resupply ends sortie generation.
+STAFF TENSION
+Logistics prefers the main base — known pipelines, known maintenance. Operations needs the dispersed posture to remain alive.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AWithdraw dispersed forces back to main operating bases to simplify sustainment and maintenance.BLimit resupply to the most politically visible locations and accept reduced readiness at other sites.CUse austere airlift and wet-wing / rapid-turn methods to deliver fuel, munitions, and critical parts to dispersed locations so combat power remains distributed.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AAir SuperiorityBRapid Global MobilityCGlobal Precision Attack
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint ProtectionBJoint SustainmentCJoint Fires
+KEY  ·  Statement C  ?  Core: Rapid Global Mobility  ?  Joint: Joint Sustainment
+Sustain the dispersed posture
+Read Statement C: austere airlift and wet-wing delivery so combat power stays distributed. That is Rapid Global Mobility / Joint Sustainment. A collapses dispersion. B resupplies by politics.
+
+
+ 
+SCENARIO 4 OF 6  ·  MAJOR COMBAT OPERATIONS
+Contested Island-Chain
+Mission 4.3 — Reduce the Logistics Footprint
+COMMANDER'S CONTEXT
+Forward locations that were supposed to be lean are accumulating non-essential equipment. The footprint is growing. The signature is growing with it. Agile employment is starting to look like a set of small main bases — easier to find, harder to move.
+JOINT OPERATIONAL PROBLEM
+Reduce the logistics footprint before the support package itself becomes a targeting vulnerability and kills the agility dispersion was meant to create.
+STAFF TENSION
+Full-spectrum packages at every site for maximum local readiness versus mission-essential only, Multi-Capable Airmen, and a footprint that can still move.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AMaintain full-spectrum support packages at every forward location to maximize local readiness.BTailor support to mission-essential requirements, emphasize Multi-Capable Airmen, and reduce non-essential equipment so the footprint remains small and mobile.CConsolidate all support back at the main operating base and accept the vulnerability of a single logistics hub.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBRapid Global MobilityCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint SustainmentCJoint Protection
+KEY  ·  Statement B  ?  Core: Rapid Global Mobility  ?  Joint: Joint Sustainment
+Tailor support to preserve agility
+Read Statement B: tailor to mission-essential; Multi-Capable Airmen; cut non-essential equipment. That is Rapid Global Mobility enabling a lean mobile posture / Joint Sustainment. A grows the target. C rebuilds the single hub.
+
+
+ 
+SCENARIO 4 OF 6  ·  MAJOR COMBAT OPERATIONS
+Contested Island-Chain
+Mission 4.4 — Preserve Sortie Generation During Network Outages
+COMMANDER'S CONTEXT
+The main operations hub has lost reliable connectivity with forward locations that still have aircraft, fuel, and valid authorities. Continuous tasking from the central AOC is gone. Generation either stops until the hub returns, or local coordination inside intent keeps sorties coming.
+JOINT OPERATIONAL PROBLEM
+Preserve sortie generation at dispersed locations during network outages before inability to coordinate ends their contribution.
+STAFF TENSION
+Suspend all forward flight ops until the hub is fully back. Or enable local coordination within commander’s intent so the force keeps producing. Pure freelancing with no local coordination is also a failure mode.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AEnable local coordination at the forward location so it can manage approved missions, local airspace, and limited sortie generation within commander’s intent until central connectivity is restored.BSuspend all forward flight operations until the main hub returns to full functionality.CAllow individual aircraft commanders to independently determine mission priorities and airspace procedures without local coordination.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ACommand and ControlBRapid Global MobilityCGlobal Precision Attack
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint Command and ControlBJoint SustainmentCJoint Fires
+KEY  ·  Statement A  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Keep generating within intent
+Read Statement A: local coordination within intent until central connectivity returns. That is Command and Control / Joint C2. B stops generation. C freelances without local coordination.
+
+
+ 
+SCENARIO 4 OF 6  ·  MAJOR COMBAT OPERATIONS
+Contested Island-Chain
+Mission 4.5 — Defend the Isolated Outpost
+COMMANDER'S CONTEXT
+Enemy landing craft are closing on an isolated allied outpost. Ground defenders can see the problem and cannot solve it alone before the craft reach the shore. An approved precision option exists under validated targeting and commander authorization.
+JOINT OPERATIONAL PROBLEM
+Stop the approaching maritime threat before it reaches the outpost. Domain of the target does not decide the function; the requirement for timely authorized effects does.
+STAFF TENSION
+Wait for the shoreline. Or withhold Air Force support because the threat is maritime. Or use an approved precision option now under proper authorization.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+ADelay engagement until landing craft reach the shoreline, then rely primarily on outpost defenders.BTreat the threat as solely a maritime-component responsibility and withhold Air Force support.CUse an approved precision airpower option to interdict the approaching maritime threat before it reaches the outpost, subject to validated targeting and commander authorization.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ARapid Global MobilityBGlobal Precision AttackCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint SustainmentBJoint FiresCJoint Protection
+KEY  ·  Statement C  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Interdict before the threat reaches the shore
+Read Statement C: approved precision interdiction of the approaching maritime threat. That is Global Precision Attack / Joint Fires. A waits until the threat is ashore. B withholds support over domain labels.
+
+
+ 
+SCENARIO 5 OF 6  ·  CRISIS RESPONSE
+Regional Hemispheric Crisis
+One Airspace, One Fight
+ 
+PURPOSE  This scenario teaches that the Joint Force cannot operate effectively when components create separate authorities, isolated airspace rules, competing air-defense decisions, or conflicting operational pictures. A combined joint task force in contiguous regional airspace requires common control measures, integrated air and missile defense, disciplined air allocation, open mobility corridors, and a shared operational picture.
+WHY THE JOINT FORCE IS INVOLVED  A regional crisis has pulled air, land, maritime, coalition, and partner forces into overlapping airspace against a shared threat. Each component brings real capability. The Joint Force is about to discover whether it has one airspace or five.
+CRISIS TRIGGER  A maritime component has requested exclusive control of airspace over its operating area. Air-defense systems, mobility aircraft, strike forces, and coalition aviation all require coordinated access to that same environment.
+WHY THIS MATTERS  Fragmented airspace control produces delays, seams, misidentification risk, competing engagement decisions, and reduced ability to mass effects. The commander gets one joint problem — not five separate air wars.
+WHY AIRPOWER MATTERS  Airpower depends on common control measures, coordinated air defense, integrated tasking, safe mobility corridors, and a shared operational picture. Treat these as administrative details and the force pays in friction and risk.
+Missions in this scenario
+5.1  Establish Unified Airspace Control5.2  Integrate Air and Missile Defense5.3  Align Air Allocation With Commander Priorities5.4  Preserve Mobility Through Contested Airspace5.5  Restore the Common Operational Picture
+On every mission:  (1) Select the staff statement  ?  (2) Match the Core Function  ?  (3) Match the Joint Function
+
+
+ 
+SCENARIO 5 OF 6  ·  CRISIS RESPONSE
+Regional Hemispheric Crisis
+Mission 5.1 — Establish Unified Airspace Control
+COMMANDER'S CONTEXT
+Maritime, land, air, and coalition tracks occupy adjacent and overlapping airspace. The maritime component wants exclusive control over its area and independent transit authority. Grant that as written and every other component becomes a guest in airspace the JFC owns as a whole.
+JOINT OPERATIONAL PROBLEM
+Establish coordinated airspace control across component boundaries before fragmented authorities restrict maneuver or raise fratricide risk.
+STAFF TENSION
+Components want control measures optimized for their own missions. The JFC needs one integrated system that protects each component without letting any component lock the others out.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AAllow each component to establish independent airspace rules within its operating area and coordinate only when conflicts occur.BUse a JFC-designated airspace-control arrangement that establishes common control measures, published corridors, and coordinated procedures for all components operating in the joint operations area.CAssign all airspace-management responsibilities to civilian agencies until the crisis ends.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ARapid Global MobilityBCommand and ControlCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint SustainmentBJoint Command and ControlCJoint Protection
+KEY  ·  Statement B  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+One airspace, one Joint Force
+Read Statement B: JFC-designated airspace-control arrangement with common measures and corridors. That is Command and Control / Joint C2. A creates seams. C abdicates military control of a contested environment.
+
+
+ 
+SCENARIO 5 OF 6  ·  CRISIS RESPONSE
+Regional Hemispheric Crisis
+Mission 5.2 — Integrate Air and Missile Defense
+COMMANDER'S CONTEXT
+The same inbound threat tracks are lighting on surface-based, maritime, and fighter air-defense displays. Engagement zones overlap. Priorities and identification procedures do not. Without coordination the force can double-engage one track, miss another, and put friendly aircraft inside someone else’s engagement basket.
+JOINT OPERATIONAL PROBLEM
+Integrate surface and airborne air-defense before uncoordinated action creates gaps, duplicate engagements, or friendly-force risk.
+STAFF TENSION
+Each component wants independent engagement authority over threats approaching its own forces. Independent authority is how layered defense becomes layered confusion.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AIntegrate surface and airborne defense capabilities under a coordinated theater air-defense construct with common priorities, identification procedures, and engagement coordination.BAllow every component to engage all threats independently as soon as they detect them.CSuspend air-defense operations until a fully complete threat picture is available.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AAir SuperiorityBCommand and ControlCGlobal Precision Attack
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint ProtectionBJoint Command and ControlCJoint Fires
+KEY  ·  Statement A  ?  Core: Air Superiority  ?  Joint: Joint Protection
+Build a layered defensive system
+Read Statement A: coordinated theater air-defense construct with common priorities, ID procedures, and engagement coordination. That is Air Superiority / Joint Protection. B produces chaos. C freezes the defense for perfect information.
+
+
+ 
+SCENARIO 5 OF 6  ·  CRISIS RESPONSE
+Regional Hemispheric Crisis
+Mission 5.3 — Align Air Allocation With Commander Priorities
+COMMANDER'S CONTEXT
+Component commanders are competing for the same finite daily air capacity. Informal requests are arriving faster than the joint air-tasking process can absorb them. If the loudest request wins, the commander’s stated priorities lose.
+JOINT OPERATIONAL PROBLEM
+Prioritize and allocate finite airpower across competing demands before uncoordinated requests prevent the commander’s objectives from becoming executable operations.
+STAFF TENSION
+Components want immediate allocation based on local urgency. The Joint Force needs a process that balances urgency against theater-wide priorities. Both are real; only a joint process holds both.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AAllocate sorties informally to the first components that request them, then adjust later if capacity remains.BAllow each service component to independently generate missions and coordinate conflicts after launch.CUse the joint air-tasking process to translate commander priorities into a coordinated, deconflicted air tasking plan that balances component requirements against Joint Force objectives.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBRapid Global MobilityCCommand and Control
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint SustainmentCJoint Command and Control
+KEY  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Turn priorities into executable action
+Read Statement C: joint air-tasking process translates commander priorities into a coordinated plan. That is Command and Control / Joint C2. A rewards the first request. B coordinates after aircraft are airborne.
+
+
+ 
+SCENARIO 5 OF 6  ·  CRISIS RESPONSE
+Regional Hemispheric Crisis
+Mission 5.4 — Preserve Mobility Through Contested Airspace
+COMMANDER'S CONTEXT
+A critical ammunition airlift is holding because the planned transit cuts through naval operating and firing areas. The maritime component needs those areas. The Joint Force needs the ammunition. Without a deconflicted corridor, either the navy stops or the airlift stops.
+JOINT OPERATIONAL PROBLEM
+Preserve time-sensitive airlift through shared airspace before delayed sustainment disrupts follow-on operations — without simply cancelling another component’s mission.
+STAFF TENSION
+Suspend all theater airlift until naval activity ends. Or send aircraft the shortest route without coordination. Both create a different failure.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AUpdate approved airspace-control measures and coordinating instructions to establish safe, time-bound mobility corridors that preserve airlift flow while accounting for naval operational requirements.BSuspend all theater airlift until naval operations are complete.CDirect mobility aircraft to use the shortest route through the operating area without prior coordination to preserve speed.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ARapid Global MobilityBCommand and ControlCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint Movement and ManeuverBJoint Command and ControlCJoint Protection
+KEY  ·  Statement A  ?  Core: Rapid Global Mobility  ?  Joint: Joint Movement and Maneuver
+Keep the mobility corridor open
+Read Statement A: update airspace-control measures for safe, time-bound mobility corridors that preserve airlift and account for naval requirements. That is Rapid Global Mobility / Joint Movement and Maneuver. B stops sustainment. C flies without coordination.
+
+
+ 
+SCENARIO 5 OF 6  ·  CRISIS RESPONSE
+Regional Hemispheric Crisis
+Mission 5.5 — Restore the Common Operational Picture
+COMMANDER'S CONTEXT
+Army, Navy, Air Force, and coalition data links are producing duplicate tracks and inconsistent radar information. Commanders on the same problem are looking at different pictures. Decisions are diverging because the information is fragmented — not because the situation is ambiguous.
+JOINT OPERATIONAL PROBLEM
+Restore a reliable common operational picture before divergent information produces delayed or inconsistent operational decisions.
+STAFF TENSION
+Abandon digital links and go fully manual. Or let each component keep its own picture and reconcile only when conflict is obvious. Both accept fragmentation as normal.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AAllow each component to retain its own separate picture and resolve discrepancies only when an immediate conflict occurs.BUse a Joint Interface Control Cell or equivalent joint-data-management function to resolve track discrepancies, synchronize interfaces, and improve the common operational picture.CDisconnect all digital links permanently and rely only on manual reporting and paper displays.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Integrated ISRBCommand and ControlCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint IntelligenceBJoint InformationCJoint Command and Control
+KEY  ·  Statement B  ?  Core: Command and Control  ?  Joint: Joint Information
+Create one reliable picture
+Read Statement B: Joint Interface Control (or equivalent) to resolve track discrepancies and improve the common picture. That is Command and Control / Joint Information. A accepts divergence. C abandons digital advantage permanently.
+
+
+ 
+SCENARIO 6 OF 6  ·  LIMITED CONTINGENCY
+African Partner-Support Operation
+Preserve the Force, Preserve the Partnership
+ 
+PURPOSE  This scenario teaches that airpower contributes to partner support through more than kinetic effects. It can provide persistent awareness, disciplined targeting support, terminal-control integration, resupply, patient movement, and the ability to preserve partner confidence and Joint Force legitimacy.
+WHY THE JOINT FORCE IS INVOLVED  Partner forces are operating across a large semi-arid region against violent extremist networks. The Joint Force supports through advisory presence, intelligence, mobility, and selected airpower. Incomplete reporting, civilian presence, limited communications, and a legitimacy standard that does not forgive undisciplined action are all in play.
+CRISIS TRIGGER  Partner commanders request immediate support against suspected enemy locations while reporting pressure on remote outposts, limited communications, difficult terrain, and growing medical and sustainment shortfalls. Urgency is high. Information quality is not.
+WHY THIS MATTERS  Undisciplined execution damages legitimacy, harms civilians, weakens partner confidence, and undermines the security objective. Delayed response leaves partners isolated. The Joint Force must support and remain accountable under applicable procedures.
+WHY AIRPOWER MATTERS  Airpower can collect, support informed decisions, enable terminal control under approved procedures, resupply isolated forces, and move patients. The staff officer supports the commander’s decision process — and does not become the approval authority, terminal controller of record, or medical authority.
+Missions in this scenario
+6.1  Establish Sufficient Information Before a Strike Decision6.2  Develop Border Awareness6.3  Improve Partner Air-Ground Coordination6.4  Sustain the Isolated Outpost6.5  Move the Critically Wounded
+On every mission:  (1) Select the staff statement  ?  (2) Match the Core Function  ?  (3) Match the Joint Function
+AUTHORITY BOUND: Learner supports informed commander decisions. Does not approve fires, invent PID standards, certify terminal controllers, diagnose, or act as medical authority.
+
+ 
+SCENARIO 6 OF 6  ·  LIMITED CONTINGENCY
+African Partner-Support Operation
+Mission 6.1 — Establish Sufficient Information Before a Strike Decision
+COMMANDER'S CONTEXT
+A partner commander is requesting immediate kinetic action against a suspected hostile location. Supporting reporting is incomplete. Civilian presence has not been sufficiently resolved. The pressure to act is real. So is the requirement to act under applicable targeting and collateral-risk procedures.
+JOINT OPERATIONAL PROBLEM
+Support the partner while obtaining the information required to reduce avoidable civilian harm under applicable procedures. Urgency is important. Urgency alone is not authority.
+STAFF TENSION
+Partner: delay lets the threat escape. Staff: incomplete information risks strategic damage beyond the engagement. Neither concern invents approval authority the learner does not have.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AUse persistent collection to improve identification, clarify the presence of civilians, and support an informed commander decision under applicable targeting and collateral-risk procedures.BApprove immediate kinetic action because the partner commander assesses the location as hostile.CDecline all future air support to avoid any possibility of civilian harm.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBGlobal Integrated ISRCCommand and Control
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint IntelligenceCJoint Command and Control
+KEY  ·  Statement A  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Support the partner without abandoning discipline
+AUTHORITY — Learner supports an informed commander decision; learner does not approve fires. DISCRIMINATOR — This tests your ability to frame a staff action within the commander's overarching problem. Your immediate recommended action is ISR (Statement A), which is a GISR / Joint Intelligence function. However, you are taking this action to solve the commander's problem, which is a Joint Fires decision (whether to strike). This curriculum requires you to categorize your recommendation based on the ultimate problem it solves. Statement A enables the Joint Fires decision while adhering to required procedures. B bypasses critical verification steps. C abandons the partner.
+
+
+ 
+SCENARIO 6 OF 6  ·  LIMITED CONTINGENCY
+African Partner-Support Operation
+Mission 6.2 — Develop Border Awareness
+COMMANDER'S CONTEXT
+Partner forces report suspected hostile logistics activity along a long, lightly monitored border. They cannot put eyes on every route. Some sectors are already active. Quiet sectors may matter more. Wide-area airborne ISR can see patterns ground posts cannot.
+JOINT OPERATIONAL PROBLEM
+Improve awareness of cross-border movement across terrain ground forces cannot persistently cover — before hostile networks exploit unmonitored routes.
+STAFF TENSION
+Focus only where incidents have already occurred. Or attempt continuous physical coverage of the entire border. Neither matches the geography or the available tools.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AEstablish fixed ground observation posts across the entire border and wait until all areas are physically covered.BUse wide-area airborne ISR to identify patterns, routes, and indicators of hostile movement, then share relevant information through approved partner-support channels.CLimit collection to locations where partner forces have already made contact with hostile elements.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ACommand and ControlBGlobal Integrated ISRCRapid Global Mobility
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint Command and ControlBJoint IntelligenceCJoint Sustainment
+KEY  ·  Statement B  ?  Core: Global Integrated ISR  ?  Joint: Joint Intelligence
+Create awareness across distance
+Read Statement B: wide-area airborne ISR; share through approved partner-support channels. That is Global Integrated ISR / Joint Intelligence. A is impossible at scale. C waits for contact.
+
+
+ 
+SCENARIO 6 OF 6  ·  LIMITED CONTINGENCY
+African Partner-Support Operation
+Mission 6.3 — Improve Partner Air-Ground Coordination
+COMMANDER'S CONTEXT
+Partner ground units and supporting aircraft are losing time and accuracy to language barriers, incompatible equipment, and weak procedures under pressure. Informal commercial workarounds are being suggested for speed. Holding aircraft distant until the partner self-solves is also on the table.
+JOINT OPERATIONAL PROBLEM
+Improve air-ground coordination with partner forces before miscommunication delays support or increases risk to friendly forces and civilians.
+STAFF TENSION
+Speed: unapproved commercial communications. Risk: hold aircraft away until the partner is self-sufficient. Neither produces controlled, accurate integration.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+ARequire partner forces to independently coordinate all air support using their existing local procedures.BUse unapproved commercial communications methods to accelerate coordination between partner forces and aircraft.CIntegrate trained tactical air-control personnel and approved coordination procedures with partner forces to improve communication, terminal control, and shared understanding.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBRapid Global MobilityCCommand and Control
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint SustainmentCJoint Command and Control
+KEY  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Connect the partner to the Joint Force
+AUTHORITY — Statement does not invent JTAC certification rules or grant the learner terminal-control authority. Statement C: trained tactical air-control personnel and approved procedures. That is Command and Control / Joint C2. SME L-2. A abandons integration. B uses unapproved methods.
+
+
+ 
+SCENARIO 6 OF 6  ·  LIMITED CONTINGENCY
+African Partner-Support Operation
+Mission 6.4 — Sustain the Isolated Outpost
+COMMANDER'S CONTEXT
+A partner outpost is isolated by terrain and threat. Ammunition, water, and medical supplies are running down. A ground convoy is possible on the map and dangerous on the ground. Approved precision aerial delivery can put supplies on the position without running the convoy through the threat.
+JOINT OPERATIONAL PROBLEM
+Sustain the isolated outpost before shortages end its ability to hold — without accepting unnecessary convoy risk.
+STAFF TENSION
+Send the convoy immediately regardless of assessed threat. Or delay all resupply until the ground route is fully secure. Aerial delivery under approved procedures is the third path.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+AUse an approved precision aerial-delivery option to resupply the isolated outpost while avoiding unnecessary exposure of a surface convoy.BDelay all resupply until the ground route becomes fully secure.CSend a ground convoy immediately regardless of the assessed threat along the route.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+ARapid Global MobilityBGlobal Precision AttackCAir Superiority
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint Movement and ManeuverBJoint FiresCJoint Protection
+KEY  ·  Statement A  ?  Core: Rapid Global Mobility  ?  Joint: Joint Movement and Maneuver
+Sustain the position without forcing the route
+Read Statement A: approved precision aerial delivery. That is Rapid Global Mobility / Joint Movement and Maneuver — air mobility as a maneuver option when surface routes are denied. B delays until failure. C accepts unnecessary convoy risk.
+
+
+ 
+SCENARIO 6 OF 6  ·  LIMITED CONTINGENCY
+African Partner-Support Operation
+Mission 6.5 — Move the Critically Wounded
+COMMANDER'S CONTEXT
+Partner personnel and joint advisors have critical injuries at an austere location. Surface evacuation is blocked by terrain and security. The nearest appropriate level of care is beyond practical ground reach. Aeromedical evacuation with critical-care capability can move them. Operations is also protecting mobility capacity for resupply.
+JOINT OPERATIONAL PROBLEM
+Move critically wounded personnel to the required level of care before delay increases preventable loss and damages partner confidence.
+STAFF TENSION
+Operations wants mobility retained for resupply. The medical requirement is time-sensitive and may need specialized in-flight care. The staff coordinates movement under proper medical direction — the staff officer does not become the clinician.
+DECISION REQUIRED
+Which staff statement should be advanced, and which functions does that statement employ?
+STEP 1  —  SELECT THE STAFF STATEMENT
+Select the statement the staff should advance. Match functions to it in Steps 2 and 3.
+ADelay patient movement until a larger medical facility or more permissive surface route becomes available.BCoordinate aeromedical evacuation with appropriate critical-care capability to stabilize and move urgent patients from the austere location to the required level of care.CUse routine ground transport regardless of travel time, terrain, patient condition, or route security.
+STEP 2  —  MATCH THE AIR FORCE CORE FUNCTION
+Match the function the statement is referencing — not a function you wish it employed.
+AGlobal Precision AttackBRapid Global MobilityCCommand and Control
+STEP 3  —  MATCH THE JOINT FUNCTION
+Which Joint Function is that same statement advancing for the JFC? One Joint Function only.
+AJoint FiresBJoint SustainmentCJoint Command and Control
+KEY  ·  Statement B  ?  Core: Rapid Global Mobility  ?  Joint: Joint Sustainment
+Preserve the force through timely care
+AUTHORITY — Learner coordinates; learner does not diagnose or act as medical authority. Statement B: coordinate AE with appropriate critical-care capability. That is Rapid Global Mobility / Joint Sustainment. SME L-3. A delays care. C ignores condition and route risk.
+
+
+ 
+BACK TO THE SQUADRON
+ 
+Before you leave this block, answer these in writing. This is the product — not a wrap-up formality.
+?Name one Joint Force problem from this course that your squadron could help or hurt without realizing it.
+?Name one tradeoff a commander made in these scenarios that your function would feel within a week.
+?Name one dependency your shop owns that airpower or joint operations cannot buy back at the last minute.
+?Name one request your function often makes that might under-resource a theater-level problem if always granted.
+?In one sentence: how are you more useful to your commander after this block than before?
+
+
+ 
+ANSWER KEY — ALL 30 MISSIONS
+Statement  ?  Core Function  ?  Joint Function
+ 
+SCENARIO 1 OF 6  ·  CRISIS RESPONSE  —  Arctic Contingency
+1.1 Open the Maritime Approach  ·  Statement B  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Preserve access before the surface force arrives
+Read Statement B: it is a stand-off strike on the surface threat. That is Global Precision Attack / Joint Fires. Match the action in the statement (attack), not the campaign purpose (access). A waits for ships that cannot arrive. C substitutes presence for effect.1.2 Restore the Northern Air Picture  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Restore the shared air picture
+Read Statement C: airborne battle management to rebuild the shared picture and coordinate defense. That is Command and Control / Joint C2. Collection is Mission 1.3. A leaves the force uncoordinated. B stops the defense.1.3 Find the Coastal Missile Threat  ·  Statement B  ?  Core: Global Integrated ISR  ?  Joint: Joint Intelligence
+Find the threat before it finds you
+Read Statement B: airborne ISR to search and cue. That is Global Integrated ISR / Joint Intelligence — find, not strike. A waits past the window. C assumes the threat away.1.4 Sustain the Forward Interceptor Detachment  ·  Statement B  ?  Core: Rapid Global Mobility  ?  Joint: Joint Sustainment
+Keep the detachment mission-capable
+Read Statement B: austere airlift of parts and de-icing fluid. That is Rapid Global Mobility / Joint Sustainment. Purpose is defensive; action is sustainment. A rations into irrelevance. C relocates coverage off the approach.1.5 Preserve Continuous Defensive Coverage  ·  Statement C  ?  Core: Rapid Global Mobility  ?  Joint: Joint Protection
+Extend on-station time, close the gaps
+DISCRIMINATOR — If the statement keeps the force generating, mark Sustainment. If it denies the adversary a window of attack, mark Protection. Statement C builds a tanker plan to close gaps: Core is Rapid Global Mobility (refueling); Joint is Protection (close the window). A accepts the gaps. B saves the tanker and spends the defense.
+SCENARIO 2 OF 6  ·  MAJOR COMBAT OPERATIONS  —  Desert Theater Crisis
+2.1 Protect the Theater Logistics Hub  ·  Statement B  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Preserve the theater lifeline
+Read Statement B: concentrated strike on the missile threat. That is Global Precision Attack / Joint Fires. DISCRIMINATOR — object you care about is the hub; action in the statement is attack. Do not mark Protection or Sustainment for campaign purpose. A fragments capacity. C ignores the theater threat.2.2 Defend Forward Sustainment Nodes  ·  Statement B  ?  Core: Air Superiority  ?  Joint: Joint Protection
+Protect the nodes before they are lost
+Read Statement B: joint defensive-counterair before the threat reaches the nodes. That is Air Superiority / Joint Protection. DISCRIMINATOR — intercept of an inbound aerial threat is Protection, not Fires against a ground target and not Sustainment of depot inventory. A leaves nodes exposed. C trades one depot for the spine.2.3 Support Isolated Friendly Forces  ·  Statement C  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Precision support under constraint
+Read Statement C: precision, controlled-effects fires under PID. That is Global Precision Attack / Joint Fires. A substitutes volume for discrimination. B abandons the force.2.4 Disrupt the Adversary’s Command Network  ·  Statement A  ?  Core: Command and Control  ?  Joint: Joint Information
+Disrupt synchronization without unnecessary escalation
+DISCRIMINATOR — This is a test of precision: distinguishing an action's category from its primary effect. While EA is a form of non-lethal fire, its primary intended effect here is to degrade the adversary's ability to synchronize. This is an effect in the information environment. Therefore, this curriculum maps it to Command and Control / Joint Information. If the intent were physical destruction, it would be GPA / Joint Fires. Statement A is the correct application of EA to achieve an information effect.2.5 Preserve Flexible Airpower Allocation  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Retain the ability to mass
+Read Statement C: centralized Joint C2 to prioritize and reallocate. That is Command and Control / Joint C2. A permanently slices finite airpower. B confuses decentralized execution with no theater prioritization.
+SCENARIO 3 OF 6  ·  CRISIS RESPONSE  —  Eastern Border Contingency
+3.1 Continue Operations Under Severed Communications  ·  Statement A  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Preserve initiative through mission command
+Read Statement A: continue inside established intent and pre-planned tasks while restoring connectivity. That is Command and Control / Joint C2. B cedes initiative. C freelances beyond intent — not mission command.3.2 Reconnect Isolated Forces and Aircraft  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Restore the information path
+Read Statement C: airborne communications relay to restore the path. That is Command and Control / Joint C2 — not intelligence collection, not air superiority. A waits. B accepts isolation.3.3 Restore Awareness Against a Low-Observable Threat  ·  Statement B  ?  Core: Air Superiority  ?  Joint: Joint Protection
+Gain awareness to protect the force
+DISCRIMINATOR — This tests the distinction between sensing for intelligence and sensing for immediate protection. Pure find-and-cue for a future targeting cycle ? GISR / Joint Intelligence. Using a sensor to plug a known gap in the defensive air picture against an active threat for immediate engagement ? Air Superiority / Joint Protection. Statement B addresses the immediate defensive need. A accepts the risk, and C assumes it away.3.4 Confirm Operational Effects  ·  Statement A  ?  Core: Global Integrated ISR  ?  Joint: Joint Intelligence
+Confirm effects before the next decision
+Read Statement A: airborne sensing for timely battle-damage information. That is Global Integrated ISR / Joint Intelligence — assessment, not a new strike. B delays. C assumes success.3.5 Defend the Tactical Information Environment  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Protection
+Protect the information required to fight
+Read Statement C: isolate affected systems, investigate, maintain defensive cyber, preserve verified paths. That is Command and Control / Joint Protection — protect the force from false-track decisions. A trusts corrupted data. B abandons digital advantage indefinitely.
+SCENARIO 4 OF 6  ·  MAJOR COMBAT OPERATIONS  —  Contested Island-Chain
+4.1 Disperse Combat Power Before the Strike  ·  Statement A  ?  Core: Rapid Global Mobility  ?  Joint: Joint Protection
+Preserve combat power through distribution
+DISCRIMINATOR — This tests the functions that enable Agile Combat Employment (ACE). The decision to disperse combat power uses mobility assets to preserve the force. Therefore, the core function is Rapid Global Mobility. The purpose of this action is to protect the force from attack by reducing vulnerability, making the joint function Joint Protection. Statement A accomplishes this. B maintains a single, vulnerable target. C moves support elements but leaves the primary combat power at risk.4.2 Sustain Forward Operations Without Permanent Infrastructure  ·  Statement C  ?  Core: Rapid Global Mobility  ?  Joint: Joint Sustainment
+Sustain the dispersed posture
+Read Statement C: austere airlift and wet-wing delivery so combat power stays distributed. That is Rapid Global Mobility / Joint Sustainment. A collapses dispersion. B resupplies by politics.4.3 Reduce the Logistics Footprint  ·  Statement B  ?  Core: Rapid Global Mobility  ?  Joint: Joint Sustainment
+Tailor support to preserve agility
+Read Statement B: tailor to mission-essential; Multi-Capable Airmen; cut non-essential equipment. That is Rapid Global Mobility enabling a lean mobile posture / Joint Sustainment. A grows the target. C rebuilds the single hub.4.4 Preserve Sortie Generation During Network Outages  ·  Statement A  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Keep generating within intent
+Read Statement A: local coordination within intent until central connectivity returns. That is Command and Control / Joint C2. B stops generation. C freelances without local coordination.4.5 Defend the Isolated Outpost  ·  Statement C  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Interdict before the threat reaches the shore
+Read Statement C: approved precision interdiction of the approaching maritime threat. That is Global Precision Attack / Joint Fires. A waits until the threat is ashore. B withholds support over domain labels.
+SCENARIO 5 OF 6  ·  CRISIS RESPONSE  —  Regional Hemispheric Crisis
+5.1 Establish Unified Airspace Control  ·  Statement B  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+One airspace, one Joint Force
+Read Statement B: JFC-designated airspace-control arrangement with common measures and corridors. That is Command and Control / Joint C2. A creates seams. C abdicates military control of a contested environment.5.2 Integrate Air and Missile Defense  ·  Statement A  ?  Core: Air Superiority  ?  Joint: Joint Protection
+Build a layered defensive system
+Read Statement A: coordinated theater air-defense construct with common priorities, ID procedures, and engagement coordination. That is Air Superiority / Joint Protection. B produces chaos. C freezes the defense for perfect information.5.3 Align Air Allocation With Commander Priorities  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Turn priorities into executable action
+Read Statement C: joint air-tasking process translates commander priorities into a coordinated plan. That is Command and Control / Joint C2. A rewards the first request. B coordinates after aircraft are airborne.5.4 Preserve Mobility Through Contested Airspace  ·  Statement A  ?  Core: Rapid Global Mobility  ?  Joint: Joint Movement and Maneuver
+Keep the mobility corridor open
+Read Statement A: update airspace-control measures for safe, time-bound mobility corridors that preserve airlift and account for naval requirements. That is Rapid Global Mobility / Joint Movement and Maneuver. B stops sustainment. C flies without coordination.5.5 Restore the Common Operational Picture  ·  Statement B  ?  Core: Command and Control  ?  Joint: Joint Information
+Create one reliable picture
+Read Statement B: Joint Interface Control (or equivalent) to resolve track discrepancies and improve the common picture. That is Command and Control / Joint Information. A accepts divergence. C abandons digital advantage permanently.
+SCENARIO 6 OF 6  ·  LIMITED CONTINGENCY  —  African Partner-Support Operation
+6.1 Establish Sufficient Information Before a Strike Decision  ·  Statement A  ?  Core: Global Precision Attack  ?  Joint: Joint Fires
+Support the partner without abandoning discipline
+AUTHORITY — Learner supports an informed commander decision; learner does not approve fires. DISCRIMINATOR — This tests your ability to frame a staff action within the commander's overarching problem. Your immediate recommended action is ISR (Statement A), which is a GISR / Joint Intelligence function. However, you are taking this action to solve the commander's problem, which is a Joint Fires decision (whether to strike). This curriculum requires you to categorize your recommendation based on the ultimate problem it solves. Statement A enables the Joint Fires decision while adhering to required procedures. B bypasses critical verification steps. C abandons the partner.6.2 Develop Border Awareness  ·  Statement B  ?  Core: Global Integrated ISR  ?  Joint: Joint Intelligence
+Create awareness across distance
+Read Statement B: wide-area airborne ISR; share through approved partner-support channels. That is Global Integrated ISR / Joint Intelligence. A is impossible at scale. C waits for contact.6.3 Improve Partner Air-Ground Coordination  ·  Statement C  ?  Core: Command and Control  ?  Joint: Joint Command and Control
+Connect the partner to the Joint Force
+AUTHORITY — Statement does not invent JTAC certification rules or grant the learner terminal-control authority. Statement C: trained tactical air-control personnel and approved procedures. That is Command and Control / Joint C2. SME L-2. A abandons integration. B uses unapproved methods.6.4 Sustain the Isolated Outpost  ·  Statement A  ?  Core: Rapid Global Mobility  ?  Joint: Joint Movement and Maneuver
+Sustain the position without forcing the route
+Read Statement A: approved precision aerial delivery. That is Rapid Global Mobility / Joint Movement and Maneuver — air mobility as a maneuver option when surface routes are denied. B delays until failure. C accepts unnecessary convoy risk.6.5 Move the Critically Wounded  ·  Statement B  ?  Core: Rapid Global Mobility  ?  Joint: Joint Sustainment
+Preserve the force through timely care
+AUTHORITY — Learner coordinates; learner does not diagnose or act as medical authority. Statement B: coordinate AE with appropriate critical-care capability. That is Rapid Global Mobility / Joint Sustainment. SME L-3. A delays care. C ignores condition and route risk.
+
+
+ 
+FACILITATOR NOTES
+300–600 captain run  ·  Dual audience  ·  Fight-mission lines  ·  Authority bounds
+ 
+ROOM RULES
+Enforce the return questions. Do not let the room end on the recommendation alone. Score statement selection, operational why, and risk/dependency HIGH. Treat Core/Joint as language in the reveal. Success metric: captains leave talking about their squadron’s role, not the doctrinal box.
+DUAL AUDIENCE
+Operations experts will accept recommendations and still argue 2.4, 3.3, 4.1, and 6.1. About 1 in 3 will dislike a label — acceptable. They finish early: make them answer the Medical dependency before they leave the mission.
+Medical / support captains need plain-language hooks (patients, MEDEVAC, blood, Class VIII, mass casualty). Mission 6.5 is their home: coordinate movement; do not diagnose. Do not build a second answer key for medical troops.
+FIGHT MISSIONS — SAY THIS, DO NOT REOPEN THE KEY
+2.4 Electronic attack: If you came to destroy the node, you wanted Fires. We came to break synchronization. Map: C2 / Joint Information.
+3.3 Low-observable sensing: Later target folder = Intelligence. Plug a hole against a threat in the air now = Protection. Map: Air Superiority / Joint Protection.
+4.1 Dispersal: The airplane is not the function. Moving combat power off the aimpoint is mobility. The reason is protection. Map: RGM / Joint Protection.
+6.1 Collect before strike: Say what you are doing (collect) and what problem you are solving (a fires decision). Do not approve the strike. Map: GPA / Joint Fires pending SME.
+1.5 Tanker persistence: Capability is Rapid Global Mobility. Effect is Protection (denying the attack window) — not Sustainment.
+AUTHORITY BOUNDS — SCENARIO 06
+Learner supports an informed commander decision. Learner does not approve fires, invent PID standards, certify terminal controllers, diagnose, or act as medical authority.
+6.1: urgency is not authority.  ·  6.3: trained personnel and approved procedures; no certification shortcut.  ·  6.5: coordinate AE; do not diagnose.
+OPEN FOR HUMAN SME ONLY
+L-1 Legal/Targeting — confirm 6.1 does not imply learner authority to approve fires or apply PID standards.
+L-2 TACP/JTAC — confirm 6.3 terminal-control wording is acceptable.
+L-3 Medical — confirm 6.5 AE language does not cast learner as medical authority.
+D-4 Doctrine (optional) — confirm 6.1 reference: GPA/Fires (problem-centric) vs GISR/Intelligence (staff action).
+600-CAPTAIN PRESSURE RESULT
+Average full-path correct ~71%. Clean missions ~78–85%. Fight missions (2.4, 3.3, 4.1, 6.1) ~42–50% by design. Zero key mismatches. Keys locked. No statement wording changes from pressure test.
+ 
+End of complete print package  ·  From Competition to Crisis  ·  The Family Business  ·  2026-10-08
+FROM COMPETITION TO CRISIS  ·  The Family Business  ·  UNCLASSIFIED / TRAINING
+
+Notional  ·  Squadron Officer School  ·  Page 1
+
